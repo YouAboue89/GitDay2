@@ -7,4 +7,10 @@ public class HomePage {
 
 // create new branche from master branch
 
+// add new class in this new branch
+
+// go commit this change.
+
+    // logo
+
 }
